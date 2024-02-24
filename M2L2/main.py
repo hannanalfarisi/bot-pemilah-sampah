@@ -39,4 +39,4 @@ async def pilih_sampah(ctx):
 
 
 
-bot.run("MTIwMDY2MjU5NDI2NTAzMDY3Ng.GYS-5R.stY2RKuojHtstqNJQRv20t4ndDVH3_N9RN-zf0")
+bot.run("TOKEN")
